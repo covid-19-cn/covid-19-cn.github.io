@@ -5,7 +5,7 @@
 </video>
 
 <video width="320" height="240" controls>
-  <source src="mask_man_2020-03-24.webm" type="video/mp4">
+  <source src="mask_man_2020-03-24.webm" type="video/webm">
 </video>
 
 
