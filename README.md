@@ -1,6 +1,6 @@
 
 <video width='1024' height='768' controls autoplay> 
-<source src="xwpajq-20200326-split-001.mkv" type='video/x-matroska'</video>
+<source src="xwpajq-20200326-split-001.mkv" type='video/x-matroska'></video>
 
 
 <video width="320" height="240" controls>
