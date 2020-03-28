@@ -1,6 +1,9 @@
 Credit by 答義問密@Youtube
-## 印度锁国，越南封粮，世界恐慌加剧！比尔盖茨公开讲“人的平等”，全球化掩盖的惊世罪恶！
-### 20200324
+## 美国强力启动向中共索赔追责进程！英国女王和首相中招，各国相继封国，人类命运进入倒计时！国家领导人为什么最终都做出了错误的选择？
+### 20200327
 <video width="320" height="240" controls>
-  <source src="/答義問密/videos/20200324_NoZF0dGmbQc-split-001.mp4" type="video/mp4">
+  <source src="/答義問密/videos/20200327_xWDgbpM0AN0-split-001.mp4" type="video/mp4">
+</video>
+<video width="320" height="240" controls>
+  <source src="/答義問密/videos/20200327_xWDgbpM0AN0-split-002.mp4" type="video/mp4">
 </video>
